@@ -11,4 +11,4 @@ Please refer to the following folders and files for project data:
 
 - citibike_data.ipynb notebook for the code used to aggregate the data using python packages pandas and numpy 
 
-- Please follow the following link to view the Tableau story [Citi Bike Analytics](https://public.tableau.com/profile/shayan.rizvi#!/)
+- Please use the following link to view the Tableau story [Citi Bike Analytics](https://public.tableau.com/profile/shayan.rizvi#!/)
